@@ -1,0 +1,47 @@
+login ----username 
+          password
+
+blank blank Error
+blank valid Error
+blank invalid error
+
+Invalid blank error
+invalid valid error
+invalid invalid error
+
+valid invalid error
+valid blank error
+valid valid Home
+
+google drive adrres class:---
+
+https://drive.google.com/drive/folders/11hsa1HuVX_ZGXzvFSRKq-66__dH3smFB?usp=sharing
+https://drive.google.com/drive/folders/11hsa1HuVX_ZGXzvFSRKq-66__dH3smFB?usp=sharing
+
+TestNG
+
+https://testng.org/testng-eclipse-update-site/7.4.0
+
+The main difference between Build and Release in Software Testing is that
+ Build is a version of a software the development team hands over to the testing team for testing purposes
+ while Release is a software the testing team hands over to the customer.
+
+
+what test coverage does
+yuou write test case
+
+static technique
+review walk though meeting inscpection
+
+jerra
+
+Apache POI Download:--https://poi.apache.org/download.html#POI-5.1.0
+
+https://akshaydethe0007.atlassian.net/jira/core/projects/SB/board
+
+kite share market app
+project
+
+Automation ---last 6 to 7 month i am working on that
+
+GIT:---   https://github.com/akshaydethe0007/CommanBatchProject
